@@ -7,12 +7,16 @@ Additionally, there is an option to save each conversion to a table that generat
 
 To simplify the experience, it was also added a button that switches the chosen (from and to) currencies when pressed.
 
+![Monetary exchange app](https://user-images.githubusercontent.com/47753370/127495700-5d6f2e65-71b6-46a6-be99-16474c0ec098.gif)
+
 The technologies used for development were:
 
 - HTML5, CSS3, JavaScript ES6
 - Bootstrap 5
 - Frankfurter API
 - IndexedDB API
+
+![Currency convertor app](https://user-images.githubusercontent.com/47753370/127497408-3676d88b-bb25-41aa-9836-048117efec40.gif)
 
 ## Testing and responsiveness
 The interface is responsive on different device sizes and the design was approached from the mobile first perspective which was achieved with the help of Chrome inspect options.
