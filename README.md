@@ -7,7 +7,7 @@ Additionally, there is an option to save each conversion to a table that is auto
 
 To simplify the experience, there was also added a button that switches the chosen (origin and destinaion) currencies when pressed.
 
-Try it live by clicking [this link](https://popacezar96.github.io/currency-convertor/)
+Try it live by clicking [this link](https://popacezar96.github.io/currency-converter/)
 
 ![Monetary exchange app](https://user-images.githubusercontent.com/47753370/127495700-5d6f2e65-71b6-46a6-be99-16474c0ec098.gif)
 
